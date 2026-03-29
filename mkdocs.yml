@@ -7,9 +7,10 @@ nav:
   - Getting Started: getting-started.md
   - Architecture Deep Dive: architecture-deep-dive.md
   - Design Principles: design-principles.md
+  - Ecosystem Comparison: ecosystem-comparison.md
   - Glossary: glossary.md
   - Examples Walkthrough: examples-walkthrough.md
   - Comparison: single-vs-multi-agent.md
   - Safety and Oversight: safety-and-human-oversight.md
+  - Design Note 001: design-note-001-documentation-scope.md
   - Contributor Guide: contributor-guide.md
-

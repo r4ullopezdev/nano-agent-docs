@@ -14,6 +14,7 @@ Documentation-first repository for the NANO Agent Stack ecosystem.
 - contributor guide
 - examples walkthrough
 - single-agent vs multi-agent comparison
+- ecosystem comparison against adjacent frameworks
 - safety and human oversight guidance
 
 ## Local preview
@@ -25,3 +26,6 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
+## Design note
+
+See [docs/design-note-001-documentation-scope.md](./docs/design-note-001-documentation-scope.md).
